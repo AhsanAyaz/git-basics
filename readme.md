@@ -1,3 +1,3 @@
 # Git Basics
 
-This is the best github repo
+With great power comes great responsibility
